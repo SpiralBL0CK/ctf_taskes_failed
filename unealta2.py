@@ -68,4 +68,4 @@ if __name__ == "__main__":
   #print pwn.disasm(data,arch='amd64')
 
   
-  
+#task was wa simpler payload for flag was "%9$s"
